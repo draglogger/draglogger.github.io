@@ -4,6 +4,6 @@
 ![Track Setup](setup1.jpg)
 
 
-(https://drag-logger.com)
+[https://drag-logger.com](https://drag-logger.com)
 
-(https://github.com/draglogger) schema - sensor - code 
+[https://github.com/draglogger](https://github.com/draglogger) schema - sensor - code 
