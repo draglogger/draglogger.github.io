@@ -1,5 +1,6 @@
 # drag logger
-## Big data and analytics: digital assistants for racers and teams
+## Big data and analytics: digital assistants for racers and teams, From Sensor to Insight
+
 ![Track Setup](setup1.jpg)
 
 
